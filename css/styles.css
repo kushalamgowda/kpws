@@ -1,0 +1,36 @@
+body {
+  background-color:#EAF6F6;
+}
+table{
+  color: #ff8c00;
+}
+p { color:#006400; }
+
+H1{
+color: #0000ff;
+}
+H3{
+  color:#000080;
+}
+input{ background-color: #EAF6F6;}
+h4{
+  color:#800000;
+}
+  textarea{ background-color: #EAF6F6;}
+
+input{
+  background-color: red:;
+}
+H2{
+  color:#ff0000;
+}
+hr{
+border-style: none;
+background-color:white;
+border-top-style:dotted;
+border-width:2px;
+width:3%;
+}
+label{
+  color: #006400;
+}
